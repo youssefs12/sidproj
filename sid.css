@@ -1,0 +1,53 @@
+body{
+    background-color: yellow;
+}
+
+div{
+    text-align: center;
+}
+
+.div1{
+    width: 70%;
+    align-self: center;
+    margin: auto;
+    height: 84rem;
+}
+
+.div2{
+    background-color: yellow;
+    position: absolute;
+    top: .5rem;
+    width: 17rem;
+    height: 84rem;
+}
+
+.div3{
+    background-color: yellow;
+    position: absolute;
+    top: .5rem;
+    right: .5rem;
+    width: 17rem;
+    height: 81.7rem;
+}
+
+.sidImageMain{
+    width: 100%;
+    height: 84.4rem;
+}
+
+.sidImageSide{
+    width: 100%;
+    border: 0;
+}
+
+.text{
+    font-family: 'Comic Neue', cursive;
+}
+
+.instagramButton{
+    position: absolute;
+    bottom: 23.2rem;
+    right: 6.7rem;
+    color: black;
+    font-size: xx-small;
+}
